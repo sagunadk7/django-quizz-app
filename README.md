@@ -113,15 +113,15 @@ To manage quiz questions and choices, follow these steps:
    http://127.0.0.1:8000/admin/
    ```
 
-4. **Log in with SuperUser Credentials**.
+4. **🔑Log in with SuperUser Credentials**.
 
-5. **Navigate to the Questions Section**:
+5. **🔍Navigate to the Questions Section**:
    Click on the `Questions` model.
 
 6. **🎲Add a New Question**:
    Click the **Add Question** button, fill in the details, and click **Save**.
 
-7. **Add Choices for the Question**:
+7. **💬Add Choices for the Question**:
    After saving the question, click the **Add Choice** button to add multiple choices.
 
 8. **✅Mark the Correct Choice**:
